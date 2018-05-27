@@ -1,0 +1,39 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.49",
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "@babel/preset-react": "^7.0.0-beta.49",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2",
+    "jest": "^23.0.0",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "dependencies": {
+    "antd": "^3.5.4",
+    "lodash-es": "^4.17.10",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystal-goose/jest-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crystal-goose/jest-test/issues"
+  },
+  "homepage": "https://github.com/crystal-goose/jest-test#readme",
+  "description": ""
+}

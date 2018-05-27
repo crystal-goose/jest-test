@@ -1,7 +1,9 @@
-import get from 'lodash-es'
+import { get } from 'lodash-es'
 
 const square = (obj) => {
     const v = get(obj, 'v')
+    console.log(obj)
+    console.log(v)
     return v * v
 }
 

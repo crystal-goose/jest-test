@@ -5,4 +5,4 @@ module.exports = {
         "no-extra-semi": 1,
         "linebreak-style": 0
     }
-};
+}

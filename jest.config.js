@@ -1,5 +1,5 @@
 module.exports = {
-    transformIgnorePatterns: [
-      'node_modules/(?!(lodash-es)/)',
-    ],
-  }
+  transformIgnorePatterns: [
+    'node_modules/(?!(lodash-es)/)'
+  ]
+}
